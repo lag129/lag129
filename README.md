@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![github-readme-stats](https://github-readme-stats-clone-lag129s-projects.vercel.app/api?username=lag129&count_private=true)
 <!--
 **lag129/lag129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
