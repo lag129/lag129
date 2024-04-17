@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![github-readme-stats](https://github-readme-stats-clone-lag129s-projects.vercel.app/api?username=lag129&count_private=true)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-clone-lag129.vercel.app/api/top-langs/?username=lag129&layout=compact" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-clone-lag129.vercel.app/api/?username=lag129" />
+</p>
+
 <!--
 **lag129/lag129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
